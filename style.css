@@ -104,7 +104,17 @@ a{
 .rewards .img{
     background-color: #bbf2d1;
 }
-
+.join{
+    border: solid;
+    background-color: rgba(0,0,0,0);
+    color: white;
+    border-radius: 20px;
+    font-size: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
 
 
 
