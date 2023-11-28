@@ -62,7 +62,7 @@ a{
 .slide{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background-color: aqua;
+    background-color: #1e3932;
     margin-top: 25px;
     margin-bottom: 25px;
     margin-left: 25px;
@@ -88,13 +88,21 @@ a{
     font-size: 25px;
 }
 .heading{
+    color: white;
     text-align: center;
     font-size: 50px;
     transition: all 800ms;
 }
 .desc{
+    color: white;
     font-size: 24px;
     text-align: center;
+}
+.rewards .info, .mocha{
+    background-color: #006241;
+}
+.rewards .img{
+    background-color: #bbf2d1;
 }
 
 
