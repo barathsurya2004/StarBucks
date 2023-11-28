@@ -141,6 +141,9 @@ a{
 .lolipop{
     background-color: #76232f;
 }
+.holiday .heading, .red .heading{
+    font-size: 25px;
+}
 .join{
     border: solid;
     background-color: rgba(0,0,0,0);
@@ -216,8 +219,8 @@ a{
 .noticeto{
     display: flex;
     flex-direction: column;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 .noticeto .info{
     text-align: center;
@@ -336,5 +339,8 @@ a{
     width: 100%;
     z-index: 0;
 }
-
+.info{
+    padding-left: 16px;
+    padding-right: 16px;
+}
 }
